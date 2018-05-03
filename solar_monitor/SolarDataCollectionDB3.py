@@ -100,7 +100,7 @@ def AddData(data_frame):
         raise e
 
 
-def ParseRawData():
+def ParseRawData(data):
     """
     :TODO: Parse Raw Data to Data Frame
     :returns: JSON data_frame
